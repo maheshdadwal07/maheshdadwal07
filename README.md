@@ -5,7 +5,7 @@ Full Stack Developer • Backend Developer • DevOps Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Systems+%26+Deployment;React+%7C+Node.js+%7C+MySQL;AWS+EC2+%7C+Nginx+%7C+PM2;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Systems+%26+Deployment;React+%7C+Node.js+%7C+MongoDB+%7C+MySQL;AWS+EC2+%7C+Nginx+%7C+PM2;Always+Learning+and+Building" />
 </p>
 
 ---
@@ -13,7 +13,7 @@ Full Stack Developer • Backend Developer • DevOps Learner
 # 👨‍💻 About Me
 
 - 🎓 Student Developer from India
-- ⚙️ Working with MERN Stack & MySQL
+- ⚙️ Working with MERN Stack, MongoDB & MySQL
 - ☁️ Learned production deployment using AWS EC2
 - 🔐 Interested in backend systems & DevOps
 - 🚀 Building scalable full-stack applications
@@ -35,6 +35,7 @@ Full Stack Developer • Backend Developer • DevOps Learner
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
