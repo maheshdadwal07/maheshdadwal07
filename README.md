@@ -135,11 +135,11 @@ https://github.com/maheshdadwal07/HireHub
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maheshdadwal07)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshdadwal07@gmail.com)
 
-[![Resume](https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readme&logoColor=white)](YOUR_RESUME_LINK)
+[![Resume](https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/160cYY9Dy5keJuMCm7jzGWKSIFuM3Bf2V/view?usp=drive_link)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/maheshdadwal07/)
 
 ---
 
