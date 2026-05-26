@@ -83,17 +83,23 @@ https://github.com/maheshdadwal07/midnight-cravings
 
 ## 💼 HireHub — Recruitment Platform
 
-A recruitment platform built to learn production deployment workflows and backend hosting.
+A full-stack recruitment platform focused on authentication, recruiter workflows, and deployment learning.
 
 ### 🔹 What I Learned
 
-- AWS EC2 deployment
-- PM2 process management
-- Nginx reverse proxy
-- SSL setup using Certbot
-- Railway MySQL integration
-- DNS & domain configuration
-- Production deployment concepts
+- Explored backend deployment using AWS EC2
+- Learned PM2 process management
+- Configured Nginx reverse proxy
+- Setup SSL using Certbot
+- Worked with Railway MySQL integration
+- Learned DNS & domain configuration
+- Understood production deployment workflows
+
+### 🔹 Current Deployment Stack
+
+- Frontend → Vercel
+- Backend → Render
+- Database → Railway MySQL
 
 ### 🔹 Tech Used
 
@@ -106,6 +112,7 @@ A recruitment platform built to learn production deployment workflows and backen
 - PM2
 - Railway
 - Vercel
+- Render
 
 🔗 **Repository:**  
 https://github.com/maheshdadwal07/HireHub
